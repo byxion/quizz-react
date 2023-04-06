@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/api/config/database.ts" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/api/models/question/helpers.ts" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/api/models/questionReponse/helpers.ts" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/api/models/questionTheme/helpers.ts" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/api/models/quizz/helpers.ts" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/api/models/reponse/helpers.ts" dialect="GenericSQL" />
+  </component>
+</project>
