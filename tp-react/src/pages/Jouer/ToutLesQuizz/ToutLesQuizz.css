@@ -1,0 +1,11 @@
+.tout-les-quizz {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 20px;
+  background: darkblue;
+  border-radius: 10px;
+}

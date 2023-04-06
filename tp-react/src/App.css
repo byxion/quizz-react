@@ -1,0 +1,42 @@
+#root {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+  font-family: sans-serif;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  width: 50%;
+  height: 100%;
+}
+
+.navigation a {
+  color: #000;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.navigation-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: clamp(10px, 5vw, 20px);
+}
+
